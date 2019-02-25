@@ -1,2 +1,2 @@
 # Proposal
-An API that allows a user to enter their zip code and find the nearest farmer's markets along with it's address, number, hours of operations, and directions. The user will also be able to save the location and information to a list (or post of some sort?) to retrieve later.
+An API that allows a user to sign-up, login, and logout; the user will be able to enter their zip code and find the nearest farmer's markets; the users will be able to click a point on the map and see the market's address, number, hours of operations, and possibly a link to directions; The user will also be able to save the location and information to a list (or post of some sort?) to retrieve later.
